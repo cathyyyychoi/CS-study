@@ -9,3 +9,4 @@
   * Baekjoon Practice [2447](https://github.com/cathyyyychoi/Algorithm/blob/master/Baekjoon/C%2B%2B/2447.cpp)
 * Dynamic Programming (동적 계획법)
 * Greedy Algorithm (탐욕 알고리즘)
+  * Baekjoon Practice [11399](https://github.com/cathyyyychoi/Algorithm/blob/master/Baekjoon/C%2B%2B/11399.cpp)
