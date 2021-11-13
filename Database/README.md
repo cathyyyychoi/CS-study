@@ -1,6 +1,6 @@
 # Databse
-### Studying sqld...
-#### 데이터 언어
+#### Studying sqld...
+### 데이터 언어
 * 데이터 정의 언어(DDL, Data Definition Language)
   * 관계형 데이터베이스 정의
   * 데이터베이스 고유의 특성 포함
